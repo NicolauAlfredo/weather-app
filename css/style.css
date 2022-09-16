@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper {
-    width: 400px;
+    width: 420px;
     border-radius: 7px;
     background: #fff;
 }
@@ -25,10 +25,11 @@ body {
 .wrapper header {
     color: #292936;
     font-size: 21px;
-    font-weight: 500;
+    font-weight: 200;
     padding: 16px 15px;
     display: flex;
     align-items: center;
+    justify-content: center;
     border-bottom: 1px solid #BFBFBF;
 }
 
@@ -36,6 +37,10 @@ header i {
     cursor: pointer;
     font-size: 0px;
     margin-right: 8px;
+}
+
+header i:hover {
+    color: #8080e9;
 }
 
 .wrapper.active header i {
@@ -103,7 +108,7 @@ header i {
 }
 
 .separator::before {
-    content: 'or';
+    content: 'ou';
     color: #ccc;
     font-size: 19px;
     padding: 0 15px;

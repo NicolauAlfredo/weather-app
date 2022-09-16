@@ -1,6 +1,6 @@
 # weather-app
 
-Weather app v.1 é um aplicativo para previsão do tempo onde permite ao usuário a partir de o nome de uma cidade consultar o seu tempo de forma fácil e agíl. 
+Weather app v.1 é um aplicativo para previsão do tempo onde permite ao usuário a partir de o nome de uma cidade consultar o seu tempo de forma fácil e agíl e ainda o usuário pode consultar o clima da sua própria cidade a partir de um sistema de geolocalização do dispositivo. 
 
 Ti convido a testar aqui: https://nicolaualfredo.github.io/weather-app/
 
